@@ -1,6 +1,6 @@
 {
   "name": "csv-formatter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ASP.NET Core MVC CSV formatter.",
   "author": "Basisregisters Vlaanderen",
   "license": "MIT",
