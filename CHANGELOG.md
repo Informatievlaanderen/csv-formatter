@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/informatievlaanderen/csv-formatter/compare/v2.1.0...v2.2.0) (2020-01-31)
+
+
+### Features
+
+* upgrade netcoreapp31 and dependencies ([15fa8fa](https://github.com/informatievlaanderen/csv-formatter/commit/15fa8fa863c59500e1ce6ef91891a3520b9c4d5b))
+
 # [2.1.0](https://github.com/informatievlaanderen/csv-formatter/compare/v2.0.0...v2.1.0) (2019-12-15)
 
 
