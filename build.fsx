@@ -40,7 +40,7 @@ Target.create "PackageAll" ignore
   ==> "PublishAll"
 
 // Package ends up with local NuGet packages
-"PublishLibrary"
+"PublishAll"
   ==> "Lib_Pack"
   ==> "PackageAll"
 
