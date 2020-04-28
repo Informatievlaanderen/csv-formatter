@@ -1,3 +1,10 @@
+## [2.2.3](https://github.com/informatievlaanderen/csv-formatter/compare/v2.2.2...v2.2.3) (2020-04-28)
+
+
+### Bug Fixes
+
+* project does not use jira ([a78fcb4](https://github.com/informatievlaanderen/csv-formatter/commit/a78fcb44536b1d5ba39a1b94eb380d6b607e2924))
+
 ## [2.2.2](https://github.com/informatievlaanderen/csv-formatter/compare/v2.2.1...v2.2.2) (2020-04-28)
 
 
