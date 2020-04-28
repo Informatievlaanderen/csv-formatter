@@ -1,4 +1,4 @@
-# Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Formatters.Csv
+# Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Formatters.Csv [![Build Status](https://github.com/Informatievlaanderen/csv-formatter/workflows/CI/badge.svg)](https://github.com/Informatievlaanderen/csv-formatter/actions)
 
 ASP.NET Core MVC CSV formatter.
 
