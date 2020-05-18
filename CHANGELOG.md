@@ -1,3 +1,10 @@
+## [2.2.5](https://github.com/informatievlaanderen/csv-formatter/compare/v2.2.4...v2.2.5) (2020-05-18)
+
+
+### Bug Fixes
+
+* move to 3.1.4 ([2f1f22d](https://github.com/informatievlaanderen/csv-formatter/commit/2f1f22dc7b36c5fcac406affabd4937753d4a862))
+
 ## [2.2.4](https://github.com/informatievlaanderen/csv-formatter/compare/v2.2.3...v2.2.4) (2020-04-28)
 
 
