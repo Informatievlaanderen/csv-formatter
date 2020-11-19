@@ -1,3 +1,10 @@
+## [2.2.9](https://github.com/informatievlaanderen/csv-formatter/compare/v2.2.8...v2.2.9) (2020-11-19)
+
+
+### Bug Fixes
+
+* remove set-env usage in gh-actions ([b3eae91](https://github.com/informatievlaanderen/csv-formatter/commit/b3eae91e1b3be66a44883308c9126f57352c733c))
+
 ## [2.2.8](https://github.com/informatievlaanderen/csv-formatter/compare/v2.2.7...v2.2.8) (2020-09-21)
 
 
