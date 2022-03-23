@@ -1,3 +1,21 @@
+# [3.0.0](https://github.com/informatievlaanderen/csv-formatter/compare/v2.2.13...v3.0.0) (2022-03-23)
+
+
+### Bug Fixes
+
+* build readytorun ([bdca5b7](https://github.com/informatievlaanderen/csv-formatter/commit/bdca5b761c55043350e5cf7b8b21321c3e1a8a71))
+* don't use no-restore for publish ([ff570c3](https://github.com/informatievlaanderen/csv-formatter/commit/ff570c3d008773ecf90326d3f6ed6f16ff997569))
+
+
+### Features
+
+* move to dotnet 6.0.3 ([0b6c747](https://github.com/informatievlaanderen/csv-formatter/commit/0b6c74789f737b99892be2e65d83841fa1e08c0d))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 6.0.3
+
 ## [2.2.13](https://github.com/informatievlaanderen/csv-formatter/compare/v2.2.12...v2.2.13) (2021-05-28)
 
 
