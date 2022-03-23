@@ -4,7 +4,7 @@ framework: net6.0
 source https://api.nuget.org/v3/index.json
 nuget Be.Vlaanderen.Basisregisters.Build.Pipeline 6.0.2 //"
 
-#load "packages/Be.Vlaanderen.Basisregisters.Build.Pipeline/Content/build-generic.fsx"
+#load "build-generic.fsx"
 
 open Fake.Core
 open Fake.Core.TargetOperators
