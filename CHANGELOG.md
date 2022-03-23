@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/informatievlaanderen/csv-formatter/compare/v3.0.0...v3.0.1) (2022-03-23)
+
+
+### Bug Fixes
+
+* use pipeline again ([59ac9a4](https://github.com/informatievlaanderen/csv-formatter/commit/59ac9a47fbf96e2458951fccb3f1f68e39a63c8b))
+
 # [3.0.0](https://github.com/informatievlaanderen/csv-formatter/compare/v2.2.13...v3.0.0) (2022-03-23)
 
 
