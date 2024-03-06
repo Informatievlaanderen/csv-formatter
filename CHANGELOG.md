@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/informatievlaanderen/csv-formatter/compare/v3.0.1...v4.0.0) (2024-03-06)
+
+
+### Features
+
+* move to dotnet 8.0.2 ([0f0c102](https://github.com/informatievlaanderen/csv-formatter/commit/0f0c1025dfc5a37659318d3cb59bd9dfcb04cb4a))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 8.0.2
+
 ## [3.0.1](https://github.com/informatievlaanderen/csv-formatter/compare/v3.0.0...v3.0.1) (2022-03-23)
 
 
