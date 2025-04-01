@@ -8,6 +8,11 @@
 [Pp]aket-files/
 [Dd]ebug/
 [Rr]elease/
+.build/**/*
+!.build
+!.build/Be.Vlaanderen.Basisregisters.Build.Pipeline
+!.build/Be.Vlaanderen.Basisregisters.Build.Pipeline/Content
+!.build/Be.Vlaanderen.Basisregisters.Build.Pipeline/Content/*.props
 [Bb]build/
 [Bb]in/
 [Oo]bj/
