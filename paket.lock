@@ -1,6 +1,0 @@
-RESTRICTION: == net8.0
-NUGET
-  remote: https://api.nuget.org/v3/index.json
-    Be.Vlaanderen.Basisregisters.Build.Pipeline (7.0.4)
-    SourceLink.Copy.PdbFiles (2.8.3) - copy_local: true
-    SourceLink.Embed.AllSourceFiles (2.8.3) - copy_local: true
