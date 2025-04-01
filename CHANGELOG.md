@@ -1,3 +1,10 @@
+## [5.0.1](https://github.com/informatievlaanderen/csv-formatter/compare/v5.0.0...v5.0.1) (2025-04-01)
+
+
+### Bug Fixes
+
+* **ci:** use new buildpipeline + trigger bump ([bcac5b4](https://github.com/informatievlaanderen/csv-formatter/commit/bcac5b43ea5681d9ff1541d7f01d1c28fffe0e03))
+
 # [5.0.0](https://github.com/informatievlaanderen/csv-formatter/compare/v4.0.0...v5.0.0) (2025-04-01)
 
 
