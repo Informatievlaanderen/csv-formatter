@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/informatievlaanderen/csv-formatter/compare/v4.0.0...v5.0.0) (2025-04-01)
+
+
+### Code Refactoring
+
+* use renovate and nuget + update pipeline ([772dd2c](https://github.com/informatievlaanderen/csv-formatter/commit/772dd2c769dbb5adbf098d5b5cf627393ed74112))
+
+
+### BREAKING CHANGES
+
+* update to dotnet 9
+
 # [4.0.0](https://github.com/informatievlaanderen/csv-formatter/compare/v3.0.1...v4.0.0) (2024-03-06)
 
 
