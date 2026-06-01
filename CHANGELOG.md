@@ -1,3 +1,10 @@
+# [5.1.0](https://github.com/informatievlaanderen/csv-formatter/compare/v5.0.1...v5.1.0) (2026-06-01)
+
+
+### Features
+
+* update packages ([c45916b](https://github.com/informatievlaanderen/csv-formatter/commit/c45916bf3ba4079cbe881d873fe86d30cc1a308e))
+
 ## [5.0.1](https://github.com/informatievlaanderen/csv-formatter/compare/v5.0.0...v5.0.1) (2025-04-01)
 
 
